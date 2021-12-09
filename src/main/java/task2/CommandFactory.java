@@ -1,0 +1,17 @@
+package task2;
+
+public class CommandFactory {
+
+    public static UserCommand createCommand(String type) {
+
+        type = type.toUpperCase();
+        switch (type) {
+            case "USER":
+                return new UserCommand();
+
+            default:
+                return null;
+        }
+
+    }
+}
