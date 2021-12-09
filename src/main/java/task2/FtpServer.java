@@ -109,7 +109,7 @@ public class FtpServer {
         //Clear the buffer task2.data to prepare for the next write
         inputBuffer.clear();
         if (command != null) {
-            String[] datas = command.split(" ");
+            String[] datas = command.split("#");
             UserCommand commandSolver = CommandFactory.createCommand(datas[0]);
             String data = "";
             if (datas.length >= 2) {

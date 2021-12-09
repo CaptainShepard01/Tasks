@@ -6,11 +6,9 @@ public class CommandFactory {
 
         type = type.toUpperCase();
         switch (type) {
-            case "USER":
-                return new UserCommand();
 
             default:
-                return null;
+                return new UserCommand();
         }
 
     }
