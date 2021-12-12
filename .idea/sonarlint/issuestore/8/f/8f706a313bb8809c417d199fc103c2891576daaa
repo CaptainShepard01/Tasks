@@ -1,0 +1,15 @@
+
+H
+java:S1172"&Remove these unused method parameters.(‡ó“üÿÿÿÿ8‰ƒßƒÚ/
+N
+java:S1481)"1Remove this unused "selectionKey" local variable.(‡µÁå8ŒƒßƒÚ/
+Z
+java:S1197."8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8šƒßƒÚ/
+L
+java:S1172Z"*Remove this unused method parameter "key".(‰™«Ãùÿÿÿÿ8‘ƒßƒÚ/
+J
+java:S1068"(Remove this unused "port" private field.(ß³†ÿÿÿÿÿ8›ƒßƒÚ/
+C
+java:S1068"&Remove this unused "ip" private field.(ŞáïÈ8›ƒßƒÚ/
+T
+java:S2589o"7Remove this expression which always evaluates to "true"(®‹–µ8¨ƒßƒÚ/
